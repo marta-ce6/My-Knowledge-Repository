@@ -1,0 +1,4 @@
+# Telemedicine and remote monitoring
+
+Telemedicine focuses on remote clinical services like diagnosis, treatment and consultation through video, phone or messaging
+Remote monitoring involves collecting physiological data from patients in their home for analysis by care teams.
