@@ -1,0 +1,4 @@
+# Wearable health sensors
+
+They are small electronic devices you wear on your body that continuously track physiological data.
+They can measure a wide range od health metrics such as heart rate and rhythm, sleep quality, blood oxygen levels or body temperature among others.
